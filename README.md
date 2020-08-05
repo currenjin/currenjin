@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 - 💬 I am a Dreamer, Thinker, Learner, Challanger and Passionate Person
 
