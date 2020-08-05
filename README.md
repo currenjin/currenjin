@@ -1,6 +1,6 @@
 ### Hi 👋
 
-- 💬 I am a Dreamer, Thinker, Learner, Challanger and Passionate Person
+- 💬 Ask me about : I am a Dreamer, Thinker, Learner, Challanger and Passionate Person
 
 <!--
 **HyunJin-Jeong/HyunJin-Jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
