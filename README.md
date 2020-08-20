@@ -1,7 +1,7 @@
 ### Hi there👋
 
 - 💬 **Ask me about -** I am a Dreamer, Thinker, Learner, Challanger and Passionate Person
-- 😏 **Interest Now -** Kubernetes, Django, Python, Ansible, Openstack, Public Cloud(AWS, Azure), Network
+- 😏 **Interest Now -** Docker/Kubernetes, Cloud(AWS, Azure, Openstack), Python, Django, Ansible
 <!--
 **HyunJin-Jeong/HyunJin-Jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
