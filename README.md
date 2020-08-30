@@ -1,4 +1,4 @@
-### Hi there👋
+### Hi 👋
 
 - 💬 **Ask me about -** I am a Dreamer, Thinker, Learner, Challanger and Passionate Person
 - 😏 **Interest Now -** Node.js, Python, Cloud(AWS, Azure, Openstack), Docker/Kubernetes, Django, Ansible
