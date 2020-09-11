@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭  **I’m currently working on Trevari**
-- 🌱  **I’m currently learning TypeScript(JavaScript)**
-- 💬  **Ask me about -** I am a Dreamer, Thinker, Learner, Challanger and Passionate Person
-- 😏  **Interest Now -** Python, Cloud(AWS, Azure, Openstack), Docker/Kubernetes, Django, Ansible
+- 🔭 **I’m currently working on Trevari**
+- 🌱 **I’m currently learning TypeScript(JavaScript)**
+- 💬 **Ask me about -** I am a Dreamer, Thinker, Learner, Challanger and Passionate Person
+- 😏 **Interest Now -** Python, Cloud(AWS, Azure, Openstack), Docker/Kubernetes, Django, Ansible
 
 <!--
 **HyunJin-Jeong/HyunJin-Jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
