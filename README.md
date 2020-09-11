@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 **I’m currently working on Trevari**
-- 🌱 **I’m currently learning TypeScript(JavaScript)**
+- 🔭 **Currently working on Trevari**
+- 🌱 **Currently learning TypeScript(JavaScript)**
 - 💬 **Ask me about -** I am a Dreamer, Thinker, Learner, Challanger and Passionate Person
 - 😏 **Interest Now -** Python, Cloud(AWS, Azure, Openstack), Docker/Kubernetes, Django, Ansible
 
