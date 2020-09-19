@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Hyunjin's github stats](https://github-readme-stats.vercel.app/api?username=hyunjin-jeong)](https://github.com/hyunjin-jeong/github-readme-stats)
 
 👨‍💻 **Currently working on Trevari** <br>
@@ -13,6 +11,8 @@
 **HyunJin-Jeong/HyunJin-Jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+### Hi there 👋
 
 [![Hyunjin's github stats](https://github-readme-stats.vercel.app/api?username=hyunjin-jeong)](https://github.com/hyunjin-jeong/github-readme-stats)
 
