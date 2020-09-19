@@ -1,8 +1,8 @@
 
-👨‍💻 **Currently working on Trevari** <br>
-📚 **Currently learning -** TypeScript(JavaScript) <br>
-💬 **Ask me about -** I am a Dreamer, Thinker, Learner, Challanger and Passionate Person <br>
-😏 **Interest Now -** Python, Cloud(AWS, Azure, Openstack), Docker/Kubernetes, Django, Ansible <br>
+- 👨‍💻 **Currently working on Trevari** <br>
+- 📚 **Currently learning -** TypeScript(JavaScript) <br>
+- 💬 **Ask me about -** I am a Dreamer, Thinker, Learner, Challanger and Passionate Person <br>
+- 😏 **Interest Now -** Python, Cloud(AWS, Azure, Openstack), Docker/Kubernetes, Django, Ansible <br>
 
 [![Hyunjin's github stats](https://github-readme-stats.vercel.app/api?username=hyunjin-jeong)](https://github.com/hyunjin-jeong/github-readme-stats)
 
