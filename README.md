@@ -1,11 +1,11 @@
 [![Hyunjin's github stats](https://github-readme-stats.vercel.app/api?username=hyunjin-jeong)](https://github.com/hyunjin-jeong/github-readme-stats)
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-blueviolet?style=flat&logo=github&link=https://simpleisit.tistory.com//)](https://simpleisit.tistory.com/)
+
 - 👨‍💻 **Currently working on Trevari** <br>
 - 📚 **Currently learning -** TypeScript(JavaScript) <br>
 - 💬 **Ask me about -** I am a Dreamer, Thinker, Learner, Challanger and Passionate Person <br>
 - 😏 **Interest Now -** Python, Cloud(AWS, Azure, Openstack), Docker/Kubernetes, Django, Ansible <br>
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-blueviolet?style=flat&logo=github&link=https://simpleisit.tistory.com//)](https://simpleisit.tistory.com/)
 
 <!--
 **HyunJin-Jeong/HyunJin-Jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
