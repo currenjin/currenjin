@@ -4,7 +4,6 @@
 
 - 👨‍💻 **Currently working on Trevari** <br>
 - 💬 **Ask me about -** I am a Dreamer, Thinker, Learner, Challanger and Passionate Person <br>
-- 📚 **Currently learning -** TypeScript(JavaScript) <br>
 - 😏 **Interest Now -** TypeScript(JavaScript), Python, Cloud(AWS, Azure, Openstack), Docker/Kubernetes, Django, Ansible <br>
 
 <!--
