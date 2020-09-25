@@ -3,8 +3,8 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-blueviolet?style=flat&logo=github&link=https://simpleisit.tistory.com//)](https://simpleisit.tistory.com/)
 
 - 👨‍💻 **Currently working on Trevari** <br>
-- 📚 **Currently learning -** TypeScript(JavaScript) <br>
 - 💬 **Ask me about -** I am a Dreamer, Thinker, Learner, Challanger and Passionate Person <br>
+- 📚 **Currently learning -** TypeScript(JavaScript) <br>
 - 😏 **Interest Now -** TypeScript(JavaScript), Python, Cloud(AWS, Azure, Openstack), Docker/Kubernetes, Django, Ansible <br>
 
 <!--
