@@ -3,7 +3,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-blueviolet?style=flat&logo=github&link=https://simpleisit.tistory.com//)](https://simpleisit.tistory.com/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunJin-Jeong&count_bg=%231B1B19&title_bg=%23886868&icon=github.svg&icon_color=%23FFFFFF&title=Visits%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 👨‍💻 **Currently working on [Trevari]** <br>
+- 👨‍💻 **Currently working on Trevari** <br>
 - 💬 **Ask me about -** I am a Dreamer, Thinker, Learner, Challanger and Passionate Person <br>
 - 😏 **Interest Now -** JavaScript(TypeScript), Python, Cloud(AWS, Openstack), Docker&Kubernetes, Ansible <br>
 
