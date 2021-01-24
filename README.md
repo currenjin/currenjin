@@ -5,7 +5,7 @@
 
 - 👨‍💻 **Currently working on Trevari** <br>
 - 💬 **Ask me about -** I am a Dreamer, Thinker, Learner, Challanger and Passionate Person :) <br>
-- 😏 **Interest Now -** JavaScript, TypeScript, React, Next.js, MobX, AWS <br>
+- 😏 **Interest Now -** JavaScript, TypeScript, React, Next.js <br>
 
 <!--
 **HyunJin-Jeong/HyunJin-Jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
