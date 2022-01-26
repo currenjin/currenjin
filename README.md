@@ -1,4 +1,6 @@
-👨‍💻 **Currently working on [TREVARI](https://trevari.co.kr/)** <br>
+🕶 **Currently working on [TREVARI](https://trevari.co.kr/)** <br>
+📝 **[Blog](https://simpleisit.tistory.com)** <br>
+📚 **[Wiki](https://currenjin.github.io)** <br>
 
 <!--
 **HyunJin-Jeong/HyunJin-Jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
