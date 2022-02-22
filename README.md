@@ -1,6 +1,5 @@
 ## Currently working on <br>
-### <img src="https://user-images.githubusercontent.com/60500649/155173686-2da9c82b-9e92-4160-ac62-d384a3cd61a0.png" height="15"> [TREVARI](https://trevari.co.kr/)
-
+### [<img src="https://user-images.githubusercontent.com/60500649/155175361-c9255855-5471-4e34-b6b0-5c67a62cbe9e.png" height="50">](https://trevari.co.kr)
 
 ## Dashboard
 | URL | Status | History | Uptime |
