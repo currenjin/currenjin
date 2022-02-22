@@ -1,7 +1,7 @@
-## 🕶 Currently working on <br>
-### **[TREVARI](https://trevari.co.kr/)**
+## Currently working on <br>
+### <img src="https://user-images.githubusercontent.com/60500649/155173686-2da9c82b-9e92-4160-ac62-d384a3cd61a0.png" height="17"> [TREVARI](https://trevari.co.kr/)
 
-## 🟩 Dashboard
+## Dashboard
 | URL | Status | History | Uptime |
 | --- | ------ | ------- | ------ |
 | <img alt="" src="https://favicons.githubusercontent.com/simpleisit.tistory.com" height="13"> [Currenjin's Blog](https://simpleisit.tistory.com) | 🟩 Up | [currenjin-s-blog.yml](https://github.com/currenjin/upptime/commits/HEAD/history/currenjin-s-blog.yml) | <details><summary><a href="https://currenjin.github.io/upptime/history/currenjin-s-blog">100.00%</a></summary><a href="https://currenjin.github.io/upptime/history/currenjin-s-blog"><img alt="All-time uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcurrenjin%2Fupptime%2FHEAD%2Fapi%2Fcurrenjin-s-blog%2Fuptime.json"></a><br><a href="https://currenjin.github.io/upptime/history/currenjin-s-blog"><img alt="24-hour uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcurrenjin%2Fupptime%2FHEAD%2Fapi%2Fcurrenjin-s-blog%2Fuptime-day.json"></a><br><a href="https://currenjin.github.io/upptime/history/currenjin-s-blog"><img alt="7-day uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcurrenjin%2Fupptime%2FHEAD%2Fapi%2Fcurrenjin-s-blog%2Fuptime-week.json"></a><br><a href="https://currenjin.github.io/upptime/history/currenjin-s-blog"><img alt="30-day uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcurrenjin%2Fupptime%2FHEAD%2Fapi%2Fcurrenjin-s-blog%2Fuptime-month.json"></a><br><a href="https://currenjin.github.io/upptime/history/currenjin-s-blog"><img alt="1-year uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcurrenjin%2Fupptime%2FHEAD%2Fapi%2Fcurrenjin-s-blog%2Fuptime-year.json"></a></details>
