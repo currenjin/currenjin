@@ -1,11 +1,11 @@
-## 🟫 Currently working on <br>
+## 🟩 Currently working on <br>
 ### [트레바리](https://trevari.co.kr)
 
 트레바리는 이유 없이 남의 말에 반대하기를 좋아하는 사람이라는 뜻의 순 우리말입니다.
 
 열심히 반대하고 있습니다. 열심히 찬성하고 있습니다.
 
-## 🟫 Dashboard
+## 🟩 Dashboard
 | URL | Status | Uptime |
 | --- | ------ | ------ |
 | <img alt="" src="https://favicons.githubusercontent.com/simpleisit.tistory.com" height="13"> [Currenjin's Blog](https://simpleisit.tistory.com) | 🟩 Up | <details><summary><a href="https://currenjin.github.io/upptime/history/currenjin-s-blog">100.00%</a></summary><a href="https://currenjin.github.io/upptime/history/currenjin-s-blog"><img alt="All-time uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcurrenjin%2Fupptime%2FHEAD%2Fapi%2Fcurrenjin-s-blog%2Fuptime.json"></a><br><a href="https://currenjin.github.io/upptime/history/currenjin-s-blog"><img alt="24-hour uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcurrenjin%2Fupptime%2FHEAD%2Fapi%2Fcurrenjin-s-blog%2Fuptime-day.json"></a><br><a href="https://currenjin.github.io/upptime/history/currenjin-s-blog"><img alt="7-day uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcurrenjin%2Fupptime%2FHEAD%2Fapi%2Fcurrenjin-s-blog%2Fuptime-week.json"></a><br><a href="https://currenjin.github.io/upptime/history/currenjin-s-blog"><img alt="30-day uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcurrenjin%2Fupptime%2FHEAD%2Fapi%2Fcurrenjin-s-blog%2Fuptime-month.json"></a><br><a href="https://currenjin.github.io/upptime/history/currenjin-s-blog"><img alt="1-year uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcurrenjin%2Fupptime%2FHEAD%2Fapi%2Fcurrenjin-s-blog%2Fuptime-year.json"></a></details>
