@@ -1,9 +1,9 @@
 ## 🏄‍♂️ Currently working on <br>
-### [<img src="https://user-images.githubusercontent.com/60500649/155175361-c9255855-5471-4e34-b6b0-5c67a62cbe9e.png" height="50">](https://trevari.co.kr)
-- 트레바리
-- Trevari
+### <img src="https://user-images.githubusercontent.com/60500649/155175361-c9255855-5471-4e34-b6b0-5c67a62cbe9e.png" height="50">
+- [트레바리](https://trevari.co.kr)
+- [Trevari](https://trevari.co.kr)
 
-트레바리는 이유 없이 남의 말에 반대하기를 좋아하는 사람이라는 뜻의 순 우리말
+트레바리는 이유 없이 남의 말에 반대하기를 좋아하는 사람이라는 뜻의 순 우리말입니다.
 
 ## 🟩 Dashboard
 | URL | Status | Uptime |
