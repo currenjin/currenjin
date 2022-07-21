@@ -8,6 +8,8 @@
 
 트레바리의 비전을 좋아합니다. 더 나은 방향을 위해 반대하기를 좋아합니다.
 
+![main_image_star-forming_region_carina_nircam_final-5mb](https://user-images.githubusercontent.com/60500649/180229298-a72995c4-7949-4aa0-a776-b7cbe325062b.jpeg)
+
 <!--
 **HyunJin-Jeong/HyunJin-Jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
