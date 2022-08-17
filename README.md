@@ -8,7 +8,7 @@
 
 트레바리의 비전을 좋아합니다. 더 나은 방향을 위해 반대하기를 좋아합니다.
 
-### 볼 것
+## 볼 것
 
 - [이력서](https://currenjin.github.io/resume/)
 - [블로그](https://simpleisit.tistory.com/)
