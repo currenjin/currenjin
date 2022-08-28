@@ -1,15 +1,4 @@
-## 🟩 Currently working on <br>
-
-### [트레바리](https://trevari.co.kr)
-
-> 트레바리는 세상을 더 지적으로, 사람들을 더 친하게 만들어 갑니다.
-> 
-> 트레바리는 이유 없이 남의 말에 반대하기를 좋아하는 사람이라는 뜻의 순 우리말입니다.
-
-트레바리의 비전을 좋아합니다. 더 나은 방향을 위해 반대하기를 좋아합니다.
-
-## 볼 것
-
+## CURRENJIN
 - [이력서](https://currenjin.github.io/resume/)
 - [블로그](https://simpleisit.tistory.com/)
 - [개인 위키](https://currenjin.github.io/)
