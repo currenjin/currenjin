@@ -1,4 +1,4 @@
-## CURRENJIN
+## 🟩 CURRENJIN
 - [이력서](https://currenjin.github.io/resume/)
 - [블로그](https://simpleisit.tistory.com/)
 - [개인 위키](https://currenjin.github.io/)
