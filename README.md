@@ -3,6 +3,8 @@
 - [블로그](https://simpleisit.tistory.com/)
 - [개인 위키](https://currenjin.github.io/)
 
+![](https://komarev.com/ghpvc/?username=currenjin)
+
 <!--
 **HyunJin-Jeong/HyunJin-Jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
