@@ -1,4 +1,6 @@
 ## 🟩 CURRENJIN
+<img src="https://komarev.com/ghpvc/?username=currenjin&label=Profile%20views&color=008000&style=flat" alt="currenjin" />
+
 - [이력서](https://currenjin.github.io/resume/)
 - [블로그](https://simpleisit.tistory.com/)
 - [개인 위키](https://currenjin.github.io/)
