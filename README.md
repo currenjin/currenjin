@@ -1,8 +1,8 @@
 ## 🟥 CURRENJIN
 
 - [이력서](https://currenjin.github.io/resume/)
-- [블로그](https://simpleisit.tistory.com/)
-- [개인 위키](https://currenjin.github.io/)
+- [위키](https://currenjin.github.io/)
+- [블로그(마이그레이션 예정. to 위키)](https://simpleisit.tistory.com/)
 
 <!--
 **HyunJin-Jeong/HyunJin-Jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
