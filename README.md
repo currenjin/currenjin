@@ -1,5 +1,4 @@
 ## 🟥 CURRENJIN
-<img src="https://komarev.com/ghpvc/?username=currenjin&label=Profile%20views&color=D1180B&style=flat" alt="currenjin" />
 
 - [이력서](https://currenjin.github.io/resume/)
 - [블로그](https://simpleisit.tistory.com/)
@@ -38,3 +37,5 @@ Here are some ideas to get you started:
 - 😏 Interest Now: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- <img src="https://komarev.com/ghpvc/?username=currenjin&label=Profile%20views&color=D1180B&style=flat" alt="currenjin" /> -- >
