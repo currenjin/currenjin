@@ -1,4 +1,4 @@
-## 🟥 CURRENJIN
+## 🪖 CURRENJIN
 2025 산업기능요원
 
 - [이력서](https://currenjin.github.io/resume/)
