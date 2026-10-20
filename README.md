@@ -6,5 +6,5 @@
 - 2026.10.18 [Daytona HackSprint Seoul](https://github.com/currenjin/2026-10-daytona-hack-sprint) - Golden Sea (🥇 1st Place)
 - 2026.10.17 [Vibe Coders Jam Session](https://github.com/currenjin/2026-base44-vibecoders-hackathon) - Prelook (🥇 1st Place)
 - 2026.10.16 [Google DeepMind AI Hackathon](https://github.com/currenjin/2026-google-deepmind-ai-hackathon) - Spec Gap Replay
-- 2026.09.19 [Daytona HackSprint](https://github.com/currenjin/2026-09-daytona-hack-sprint) - collider (Top 6 Finalist)
+- 2026.09.19 [Daytona HackSprint](https://github.com/currenjin/2026-09-daytona-hack-sprint) - collider (🏅 Top 6 Finalist)
 - 2026.07.16 [Google Cloud Study Jam Hackathon](https://github.com/currenjin/2026-07-google-cloud-study-jam-hackathon) - Reels Drama
